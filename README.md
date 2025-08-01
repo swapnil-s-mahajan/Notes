@@ -1,2 +1,2 @@
 # Notes
-this repository 
+about this repository 
